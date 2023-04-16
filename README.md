@@ -1,4 +1,4 @@
 Module-1 Coding Assignment
 
 Solution link:             
-                   file:///D:/SHABNAM/coursera%20coding%20assignment1/index.html
+                   https://3024k.github.io/HTML-CSS-Javascript-for-Web-Developers/module2-solution/
